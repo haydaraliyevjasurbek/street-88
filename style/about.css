@@ -1,0 +1,32 @@
+.header {
+  background-color: #000;
+  padding-bottom: 0px;
+}
+.about {
+  width: 100%;
+  background-color: #000;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.about__img-content {
+  background-image: url(../images/about-img.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.about__title {
+  font: 55px "Roboto-Bold";
+  color: #69cf17;
+  text-align: center;
+}
+.about__text {
+  margin-top: 30px;
+  text-align: justify;
+  font: 16px "Raleway-Bold";
+  font-weight: 400;
+  color: #fff;
+}
