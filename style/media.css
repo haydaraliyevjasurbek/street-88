@@ -137,6 +137,10 @@
     font-size: 14px;
   }
 
+  .products_link {
+    font-size: 10px;
+  }
+
   .about__text-content {
     margin-top: 10px;
     max-height: 100%;
@@ -175,6 +179,10 @@
 
   .header__view-link {
     padding: 5px 46px;
+  }
+
+  .location__title {
+    font-size: 36px;
   }
 }
 
